@@ -59,7 +59,7 @@
     <distributionManagement>
         <repository>
             <id>avrios-releases</id>
-            <url>https://avrios-821747761766.d.codeartifact.eu-central-1.amazonaws.com/maven/avrios-release/</url>
+            <url>https://avrios-917835067517.d.codeartifact.eu-central-1.amazonaws.com/maven/avrios-release/</url>
         </repository>
     </distributionManagement>
 
